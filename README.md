@@ -42,5 +42,5 @@ Web-based preview of Dr. Mina Emad's dental clinics application featuring:
 | JavaScript     | XAML             |
 | Google Fonts   | MVVM Architecture|
 
-## © 2025 Mina Malak. All Rights Reserved.
+## © 2025 Mina. All Rights Reserved.
 
